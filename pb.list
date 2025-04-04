@@ -2,8 +2,6 @@
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 
 # 这里是我本地的测试
-DOMAIN-SUFFIX,vrdesktop.net
 DOMAIN-SUFFIX,america.vrdesktop.net
 DOMAIN-SUFFIX,europe.vrdesktop.net
-DOMAIN-SUFFIX,a.youdao.com
-DOMAIN-SUFFIX,mon.isnssdk.com
+
