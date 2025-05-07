@@ -1,0 +1,4 @@
+# 直连规则
+DOMAIN-SUFFIX,signalr.net
+DOMAIN-SUFFIX,service.signalr.net
+DOMAIN-SUFFIX,signalrs2-relayhub-prod-as02-1.service.signalr.net

@@ -1,0 +1,7 @@
+# Yj自用代理规则
+DOMAIN-SUFFIX,audiomack.com
+DOMAIN-SUFFIX,api.audiomack.com
+DOMAIN-SUFFIX,truthsocial.com
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,tactics.tools
+DOMAIN-SUFFIX,simplex.chat
