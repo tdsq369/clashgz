@@ -1,7 +1,7 @@
 proxy-providers:
   Provider_9F807B:
     type: http
-    url: https://cdnj.369163.xyz/0d847031-626e-4661-b0db-3999fd2e4b18/sub
+    url: 
     interval: 3600
     proxy: DIRECT
     path: ./providers/Provider_9F807B.yaml
