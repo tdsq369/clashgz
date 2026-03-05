@@ -2,6 +2,17 @@
 # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
 
 # 这里是我本地的测试
+# --- Virtual Desktop 更新与验证拦截 ---
 DOMAIN-SUFFIX,america.vrdesktop.net
 DOMAIN-SUFFIX,europe.vrdesktop.net
 
+# --- Pico 连通性检查与日志上报拦截 ---
+DOMAIN-SUFFIX,connectivitycheck-global.picovr.com
+DOMAIN-SUFFIX,log-global.picoxr.com
+
+# --- 字节跳动广告与监控拦截 ---
+DOMAIN-SUFFIX,ad.toutiao.com
+DOMAIN-SUFFIX,ad.byteali.com
+DOMAIN-SUFFIX,dm.bytedance.com
+DOMAIN-SUFFIX,is.snssdk.com
+DOMAIN-SUFFIX,mon.isnssdk.com
