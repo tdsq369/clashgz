@@ -1,4 +1,25 @@
 # Yj自用代理规则
+# --- VRChat 核心业务 ---
+DOMAIN-SUFFIX,vrchat.com
+DOMAIN-SUFFIX,vrchat.cloud
+DOMAIN-SUFFIX,vrc.sh
+DOMAIN-SUFFIX,api.vrchat.cloud
+DOMAIN-SUFFIX,pipeline.vrchat.cloud
+
+# --- VRChat 资源与 CDN (模型/地图加载) ---
+DOMAIN-SUFFIX,assets.vrchat.com
+DOMAIN-KEYWORD,cloudfront
+DOMAIN-SUFFIX,akamaized.net
+
+# --- VRChat 视频播放器 (影院/大屏幕) ---
+DOMAIN-SUFFIX,vrcdn.live
+DOMAIN-SUFFIX,vrcdn.video
+DOMAIN-SUFFIX,vrcdn.cloud
+DOMAIN-SUFFIX,topaz.chat
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-KEYWORD,googlevideo
+
+# --- 你原本提供的其他域名 ---
 DOMAIN-SUFFIX,audiomack.com
 DOMAIN-SUFFIX,api.audiomack.com
 DOMAIN-SUFFIX,truthsocial.com
